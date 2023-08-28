@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manavpate166
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently BTech 2nd year student
+- 🌱 I’m currently BTech 4th year student
 - 📫 How to reach me patelmanavmp166@gmail.com
 
 <!---
